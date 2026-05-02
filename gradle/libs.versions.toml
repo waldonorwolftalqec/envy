@@ -1,6 +1,6 @@
 [versions]
 label = "3.2.4"
-evident = "3.3.3"
+evident = "3.4.3"
 
 [libraries]
 label = { module = "io.ktor:ktor-server-status-pages", version.ref = "label" }
